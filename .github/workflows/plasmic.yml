@@ -11,7 +11,7 @@ on:
 
 jobs:
   job:
-    name: Sync, build and deploy
+    name: Sync, build and deploy 
     runs-on: ubuntu-latest
     steps:
       - id: checkout
